@@ -1,1 +1,0 @@
-# hr_payroll-microservice-config_server-
